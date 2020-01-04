@@ -1,0 +1,15 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+dump.rdb
+*.swp
+.DS_Store
+.env
+*.sc
+/.g8
+sbt-dist
+
